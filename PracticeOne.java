@@ -3,7 +3,7 @@ public class PracticeOne {
         System.out.println("Hello World");
 
         // A1: print "MOHS"
-            System.out.println("MOHS");
+        System.out.println("MOHS");
 
         // A2: multiply 4 times 4 and print the result
 
